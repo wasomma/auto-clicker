@@ -5,6 +5,13 @@ current cursor position at a configurable rate — useful for idle/clicker games
 
 ![icon](AutoClicker.ico)
 
+## Download
+
+Grab `AutoClicker.exe` from the
+[latest release](https://github.com/wasomma/auto-clicker/releases/latest).
+The exe is unsigned, so Windows SmartScreen may warn on first run — click
+*More info → Run anyway*.
+
 ## Usage
 
 Run `AutoClicker.exe` (no install, no dependencies — just .NET Framework, which ships
